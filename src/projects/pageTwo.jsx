@@ -25,7 +25,7 @@ export default props =>(
 					
             </div>
 
-            <div class="card-deck">
+            <div class="card-deck mt-2">
                 
                 <Card link='#mata%mosquito' img='https://techsantanna.000webhostapp.com/imagens/Projetos/Mata-Mosquito/game.png'
                 title='Mata Mosquito' subtitle='WebSite' text='Matar mosquito virou um jogo, tente matar o maximo de mosquito que conseguir...'/>
@@ -36,7 +36,7 @@ export default props =>(
                 <Card link='#jokenpo' img='https://techsantanna.000webhostapp.com/imagens/Projetos/JoKenPo/jokenpo.png'
                 title='JoKenPo' subtitle='Android' text='Quem nunca jogou jokenpo ? um dos jogos mais famosos quando se é criança, favorito para escolher qual decisao tomar entre duas pessoas...'/>
             </div>
-            <div class="card-deck">
+            <div class="card-deck mt-2">
 
                 <Card link='#spotify' img='https://techsantanna.000webhostapp.com/imagens/Projetos/spotify/spotify.png'
                 title='Spotify' subtitle='WebSite' text='O maior serviço de stream de musica, conhecido como spotify, fiz um clone site dele durante o curso de web na udemy...'/>
@@ -57,5 +57,4 @@ export default props =>(
             </ol>
         </section>
     </article>
-
 )
