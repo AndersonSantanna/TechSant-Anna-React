@@ -15,8 +15,8 @@ export default props =>(
                     <ul className="navbar-nav ml-auto">
                         <li className="navbar-item"><a className="nav-link" id="text-personalizado" href="/"> Home</a></li>
                         <li className="navbar-item"><a className="nav-link" id="text-personalizado" href="#about"> Sobre</a></li>
-                        <li className="navbar-item"><a className="nav-link " id="text-personalizado" href="../pages/Projects/1.html">Projetos</a></li>
-                        <li className="navbar-item"><a className="nav-link" id="text-personalizado" href="../pages/Contats/contatos.html">Contato</a></li>
+                        <li className="navbar-item"><a className="nav-link " id="text-personalizado" href="#projects">Projetos</a></li>
+                        <li className="navbar-item"><a className="nav-link" id="text-personalizado" href="#contacts">Contato</a></li>
                     </ul>
                 </div>
             </div>

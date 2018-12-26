@@ -29,16 +29,16 @@ export default props =>(
                     <h4>Social Networks</h4>
                     <ul className="navbar-nav">
                         <li>
-                            <a href="https://www.facebook.com/anderson.pereirasantanna" className="btn" target="_blank">
+                            <a href="https://www.facebook.com/anderson.pereirasantanna" className="btn" target="_blank" rel="noopener noreferrer">
                                 <i id="face-f" className="fab fa-facebook-f fa-2x"></i>
                             </a>
-                            <a href="https://www.instagram.com/anderson.sant_anna/?hl=pt-br" className="btn btn-light" target="_blank" >
+                            <a href="https://www.instagram.com/anderson.sant_anna/?hl=pt-br" className="btn btn-light" target="_blank" rel="noopener noreferrer">
                                 <i id="insta" className="fab fa-instagram fa-2x"></i>
                             </a>
-                            <a href="https://github.com/AndersonSantanna" className="btn btn-light" target="_blank">
+                            <a href="https://github.com/AndersonSantanna" className="btn btn-light" target="_blank" rel="noopener noreferrer">
                                 <i id="git" className="fab fa-github fa-2x"></i>
                             </a>
-                            <a href="https://www.linkedin.com/in/anderson-sant-anna/" className="btn btn-primary" target="_blank">
+                            <a href="https://www.linkedin.com/in/anderson-sant-anna/" className="btn btn-primary" target="_blank" rel="noopener noreferrer">
                                 <i id="face-f" className="fab fa-linkedin fa-2x"></i>
                             </a>
                         </li>
